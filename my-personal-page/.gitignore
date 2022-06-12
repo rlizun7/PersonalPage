@@ -35,3 +35,6 @@ out/
 
 # Typescript
 tsconfig.tsbuildinfo
+
+# package-lock
+package-lock.json
